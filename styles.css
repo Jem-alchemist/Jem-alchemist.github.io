@@ -3,6 +3,11 @@
   padding:0px;
 }
 
+h1 {
+  color:green;
+  text-align:center;
+}
+
 #cenachero {
   display: block;
   width:384px;
@@ -10,8 +15,9 @@
 }
 
 p {
+  color:blue;
   display: block;
-  width: 400px;
+  width: 500px;
   margin: 50px auto;
-  font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
+  font: 24px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
