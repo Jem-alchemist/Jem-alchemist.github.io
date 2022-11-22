@@ -16,18 +16,21 @@ h2 {
   text-shadow: 2px 2px 5px red;
 }
 
-h3 {
-  color: black;
-  text-align: center;
-  font-size: 12px;
-}
-
 p {
   color:#B7EDFF;
   text-align:center;
   font-size: 24px;
   text-decoration: underline;
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
+
+.mail {
+  color: #A5482A;
+  font-size: 14px;
+  font-weight: bold;
+  width: 20%;
+  border: 8px solid #A5482A;
+  background-color: #FFD1C2;
 }
 
 #cenachero {
@@ -55,7 +58,7 @@ ul {
 li a {
   display: block;
   color: white;
-  padding: 8px 16px;
+  padding: 8px 16px;font-size: 18px;font-weight: bold;
   text-decoration: none;
   border: 2px solid white;
 }
