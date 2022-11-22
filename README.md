@@ -3,4 +3,4 @@
 <h2>Mi nombre es Jesus Manuel Escobar Muñoz</h2>
 <p>Con este simple código expongo mis proyectos de github. Con la única pretensión de darlos a conocer al mundo. Por si alguien le hiciese falta o le pudiera ayudar.</p>
 <p> Saludos.</p>
-<p>Mi email:jem.correo@gmail.com</p>
+<a href="mailto:jem.correo@gmail.com?subject=Contacto%20de%20Github" target="_top">Contactar por Mail</a>
