@@ -6,7 +6,6 @@ h1 {
   color:green;
   text-align:center;
   font-size: 48px;
-  padding: 10px;
   text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
 
@@ -14,32 +13,35 @@ h2 {
   color:blue;
   text-align:center;
   font-size: 30px;
-  padding: 10px;
   text-shadow: 2px 2px 5px red;
 }
 
+h3 {
+  color: black;
+  text-align: center;
+  font-size: 12px;
+}
+
 p {
-  color:green;
+  color:#B7EDFF;
   text-align:center;
   font-size: 24px;
-  padding: 10px;
+  text-decoration: underline;
   text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
 }
 
 #cenachero {
   display: block;
   width:128px;
-  margin: 50px auto;
-  border: 3px solid #73AD21;
+  margin: 25px auto;
+  border: 6px solid #E46238;
 }
 
 .center {
   margin: auto;
-  width: 40%;
-  border: 3px solid #73AD21;
-  padding: 10px;
+  width: 20%;
+  border: 8px solid #2721AD;
 }
-
 
 ul {
   text-align:center;
@@ -55,6 +57,7 @@ li a {
   color: white;
   padding: 8px 16px;
   text-decoration: none;
+  border: 2px solid white;
 }
 
 li a:hover {
